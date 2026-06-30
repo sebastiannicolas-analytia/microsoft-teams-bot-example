@@ -1,0 +1,11 @@
+[project]
+name = "teams-example"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = [
+    "microsoft-teams-api>=2.0.13.4",
+    "microsoft-teams-apps>=2.0.13.4",
+    "python-dotenv>=1.2.2",
+]
